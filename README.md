@@ -1,9 +1,8 @@
-## OlÃ¡ eu sou o Marcus Vinicius, sou programador full-stack e estou em busca do meu primeiro emprego como programador!
+## Olá! Eu sou o Marcus Vinicius, sou programador full-stack e estou em busca do meu primeiro emprego como programador!
 <div align="center">
   <a href="https://github.com/marcussviniciuss">
 </div>
 <div> 
-  <a href = "mailto:rissetolucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcussviniciuss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
