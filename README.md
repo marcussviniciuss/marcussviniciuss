@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcus Vinicius, sou programador full-stack e estou em busca do meu primeiro emprego como desenvolvedor!
+## Olá! Eu sou o Marcus Vinicius, sou programador!
 <div align="center">
   <a href="https://github.com/marcussviniciuss">
 </div>
